@@ -1,6 +1,6 @@
 {
-    "name": "acadmey_website_project",
-    "short_name": "acadmey_website_project",
+    "name": "cas",
+    "short_name": "cas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
