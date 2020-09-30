@@ -1,6 +1,6 @@
 {
-    "name": "testing_project",
-    "short_name": "testing_project",
+    "name": "acadmey_website_project",
+    "short_name": "acadmey_website_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
