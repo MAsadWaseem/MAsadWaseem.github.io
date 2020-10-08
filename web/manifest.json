@@ -1,6 +1,6 @@
 {
-    "name": "cas",
-    "short_name": "cas",
+    "name": "cas_web",
+    "short_name": "cas_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
